@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TrillSGX": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
